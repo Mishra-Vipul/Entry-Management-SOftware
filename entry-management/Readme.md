@@ -1,3 +1,5 @@
+#No changes -- Just trying out git clone !!!q
+
 # Entry-Management-Application
 
 This project aims to maintain the record of Hosts and visitors, and based on the visitor choice the visit the host and their details are share with the host via Email, and vice versa is done as the time of Visitor Checkout, i.e. the visited host details and the checkout time is sent to visitor.
